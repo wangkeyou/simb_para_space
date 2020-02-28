@@ -9,7 +9,7 @@
 %  This program is written to draw the bifurcation of the single
 %  machine infinite bus (SMIB) system.
 %
-%  The parameter space will be illustrated as shown in ref[2] after run this script. 
+%  The parameter space will be illustrated as shown in ref[1] after run this script. 
 %  
 %  If you are interested in the theory of the program. You are recommended
 %  to read my paper [2] or other books or papers on dynamical systems as
