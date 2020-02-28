@@ -1,17 +1,17 @@
 # simb_para_space
- This program is written to illurstrate the bifuraction of the single machine infinite bus (SMIB) system.
+ This program is written to illurstrate the bifurcation of the single machine infinite bus (SMIB) system.
 
 ```matlab
 % -----------------------------------------------------------------------
 % Copyright (c) 2011-2020 by Keyou Wang (wangkeyou@sjtu.edu.cn)
 % 
 % Description:
-%  This program is written to draw the bifuraction of the single
+%  This program is written to draw the bifurcation of the single
 %  machine infinite bus (SMIB) system.
 %
 %  The parameter space will be illustrated as shown in ref[2] after run this script. 
 %  
-%  If you are interested in the theory of the program. You are recommanded
+%  If you are interested in the theory of the program. You are recommended
 %  to read my paper [2] or other books or papers on dynamical systems as
 %  follows.
 %   

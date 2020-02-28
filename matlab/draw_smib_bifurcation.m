@@ -1,8 +1,9 @@
+
 % -----------------------------------------------------------------------
 % Copyright (c) 2011-2020 by Keyou Wang (wangkeyou@sjtu.edu.cn)
 % 
 % Description:
-%  This program is written to draw the bifuraction of the single
+%  This program is written to draw the bifurcation of the single
 %  machine infinite bus (SMIB) system.
 %
 %  The parameter space will be illustrated as shown in ref[2] after run this script. 
@@ -12,7 +13,7 @@
 %  follows.
 %   
 % See reference:
-% [1]. Æëè¡£¬Íô¿ÉÓÑ£¬ÎâÅÎ£¬Àî¹ú½Ü£¬ĞéÄâÍ¬²½»ú¹¦½ÇÎÈ¶¨µÄ²ÎÊı¿Õ¼ä·ÖÎö,ÖĞ¹úµç»ú¹¤³ÌÑ§±¨£¬2019
+% [1]. é½ç›ï¼Œæ±ªå¯å‹ï¼Œå´ç›¼ï¼Œæå›½æ°ï¼Œè™šæ‹ŸåŒæ­¥æœºåŠŸè§’ç¨³å®šçš„å‚æ•°ç©ºé—´åˆ†æ,ä¸­å›½ç”µæœºå·¥ç¨‹å­¦æŠ¥ï¼Œ2019
 % [2]. K.Wang, M.L.Crow,The Fokker-Planck Equation for Power System Stability
 %       Probability Density Function Evolution,IEEE Transactions on Power Systems, 2013
 % [3]. A. A. Andronov, A. A. Vitt, and S. E. Khaikin, Theory of Oscillators.
