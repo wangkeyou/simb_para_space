@@ -1,6 +1,7 @@
 # simb_para_space
  This program is written to illurstrate the bifuraction of the single machine infinite bus (SMIB) system.
 
+```matlab
 % -----------------------------------------------------------------------
 % Copyright (c) 2011-2020 by Keyou Wang (wangkeyou@sjtu.edu.cn)
 % 
@@ -20,6 +21,5 @@
 %       Probability Density Function Evolution,IEEE Transactions on Power Systems, 2013
 % [3]. A. A. Andronov, A. A. Vitt, and S. E. Khaikin, Theory of Oscillators.
 %       New York: Dover, 1966.
-
-
-![](img/README-2020-02-28-22-08-32.png)
+```
+<center><img src="img/README-2020-02-28-22-08-32.png" alt="" width="40%"></center>
